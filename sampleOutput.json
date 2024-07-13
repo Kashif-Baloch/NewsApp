@@ -1,0 +1,269 @@
+// 20230708005930
+// https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=eda50beaec044a26bad89db7d548ccc9
+
+{
+  "status": "ok",
+  "totalResults": 67,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Deutsche Welle",
+      "title": "Twitter to sue Meta over new Threads app - DW (English)",
+      "description": "Twitter has said Meta's new Threads app uses stolen trade secrets and intellectual property. Threads has attracted tens of millions of users in just 24 hours.",
+      "url": "https://www.dw.com/en/twitter-to-sue-meta-over-new-threads-app/a-66145950",
+      "urlToImage": "https://static.dw.com/image/66145888_6.jpg",
+      "publishedAt": "2023-07-07T02:59:21Z",
+      "content": "Twitter is threatening fellow social-media giant Meta with legal action over its new rival text app Threads, according to US media reports.\r\nIn a letter dated Wednesday and addressed to Meta CEO Mark… [+2126 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "author": "James Rubin, Glenn Williams",
+      "title": "First Mover Asia: Bitcoin Whales Are Increasing, but BTC Sent to Exchanges Continues to Fall. What Does the Trend Mean? - CoinDesk",
+      "description": "PLUS: Bitcoin tumbled below $30,000 for the first time in almost two weeks after a disappointing ADP private sector jobs report and ISM services index, but regained some ground later on Thursday.",
+      "url": "https://www.coindesk.com/markets/2023/07/07/first-mover-asia-bitcoin-whales-are-increasing-but-btc-sent-to-exchanges-continues-to-fall-what-does-the-trend-mean/",
+      "urlToImage": "https://www.coindesk.com/resizer/HJt5rqS8vQ8-a2C4rtCEWIkyQfQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LMUNLBXPLRGXZAUVA3VP2BR24A.png",
+      "publishedAt": "2023-07-07T02:53:00Z",
+      "content": "Good morning. Heres whats happening:\r\nPrices: Jobs and services reports sent bitcoin plummeting below $30K before, although the crypto later regained this threshold. Sentiment has been increasingly b… [+5973 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "Robotaxi haters in San Francisco are disabling the AVs with traffic cones - TechCrunch",
+      "description": "A group of San Franciscans is protesting the expansion of Waymo and Cruise robotaxis by disabling the vehicles with traffic cones.",
+      "url": "https://techcrunch.com/2023/07/06/robotaxi-haters-in-san-francisco-are-disabling-waymo-cruise-traffic-cones/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?resize=1200,800",
+      "publishedAt": "2023-07-07T02:52:47Z",
+      "content": "A decentralized group of safe streets activists in San Francisco realized they can disable Cruise and Waymo robotaxis by placing a traffic cone on a vehicle’s hood, and they’re encouraging others to … [+6156 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OregonLive"
+      },
+      "author": null,
+      "title": "Mortgage rate forecast gives clues to when rates will drop - OregonLive",
+      "description": "Mortgage rates will probably make a downward turn this year — but not in July.",
+      "url": "https://www.oregonlive.com/advice/2023/07/mortgage-rate-forecast-gives-clues-to-when-rates-will-drop.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/7wGbttA6TA7zVwpJd59XCGagEME=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XRGD3KMQJRCF7K5YT4W7VC6EO4.jpg",
+      "publishedAt": "2023-07-07T02:14:00Z",
+      "content": "Mortgage rates will probably make a downward turn this year but not in July. Instead, rates are likely to creep upward this summer or stay about the same.\r\nForecasting mortgage rates is always an iff… [+2802 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KCRA Sacramento"
+      },
+      "author": "Lysée Mitri",
+      "title": "California, truck manufacturers reach deal to phase out diesel big rigs - KCRA Sacramento",
+      "description": "Some of the largest truck manufacturers in the country struck a deal with California, accepting the state's plan to ban the sale of new diesel big rigs by 2036.",
+      "url": "https://www.kcra.com/article/california-deal-reached-phase-out-diesel-trucks/44468220",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/594d69e9-29d0-4d04-9d37-6e2b0d651f5a/b392bc0e-bb04-408a-8ad7-99ee1d915bf9.jpg?crop=0.773xw:0.774xh;0.0555xw,0&resize=1200:*",
+      "publishedAt": "2023-07-07T01:57:00Z",
+      "content": "SACRAMENTO, Calif. —Some of the largest truck manufacturers in the country struck a deal with California, accepting the state's plan to ban the sale of new diesel big rigs by 2036.\r\nThe so-called Cle… [+2289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GMA"
+      },
+      "author": "Kelly McCarthy",
+      "title": "FDA, FTC send cease and desists to 6 companies over copycat THC snack products - GMA",
+      "description": "",
+      "url": "https://www.goodmorningamerica.com/food/story/fda-ftc-send-cease-desists-6-companies-sell-100768689",
+      "urlToImage": "https://s.abcnews.com/images/GMA/cbd-candy-sign-gty-ps-230706_1688667368515_hpMain_16x9_608.jpg",
+      "publishedAt": "2023-07-07T00:56:15Z",
+      "content": "The U.S. Food and Drug Administration and the Federal Trade Commission have jointly \r\n issued warning letters to six companies that they say illegally sold copycat food products that look like regula… [+5629 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Meta, Red Hat cancel 2024 conferences in SF; experts project challenging year - ABC7 News Bay Area",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=5yrqmwvH12w",
+      "urlToImage": null,
+      "publishedAt": "2023-07-07T00:41:07Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Bull case for Amazon is that AWS numbers improve next quarter, says Deepwater's Gene Munster - CNBC Television",
+      "description": "Gene Munster, Deepwater Management managing partner, joins 'Last Call' with reaction to Amazon CEO Andy Jassy's interview with CNBC.",
+      "url": "https://www.youtube.com/watch?v=zOZ7RBlxlZc",
+      "urlToImage": "https://i.ytimg.com/vi/zOZ7RBlxlZc/maxresdefault.jpg",
+      "publishedAt": "2023-07-07T00:32:44Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KOAT New Mexico"
+      },
+      "author": "Stephanie Muñiz",
+      "title": "Mayor reacts to Griff's Hamburgers closure - KOAT New Mexico",
+      "description": "“So what you're going to see is we will continue to move forward on this issue. And so now we have cleaning crews by quadrant that just came into sort of reality around April. But that's going to stay,\" Mayor Tim Keller said.",
+      "url": "https://www.koat.com/article/mayor-keller-griffs-hamburgers-closure/44468122",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/48043227-6403-40ae-aaa5-da0433cb81b0/a146d3b8-e604-4a59-a19a-eaa49ae6b464.jpg?crop=0.791xw:0.791xh;0.00816xw,0&resize=1200:*",
+      "publishedAt": "2023-07-07T00:20:00Z",
+      "content": "ALBUQUERQUE, N.M. —This is very much connected in terms of the spectrum, because fundamentally, no matter what homelessness presents itself as on the street, we all know a core root cause is lack of … [+1821 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Seattle Times"
+      },
+      "author": "The Seattle Times",
+      "title": "With prices flat, Seattle-area housing market settles into new normal - The Seattle Times",
+      "description": null,
+      "url": "https://www.seattletimes.com/business/real-estate/with-prices-flat-seattle-area-housing-market-settles-into-new-normal/",
+      "urlToImage": null,
+      "publishedAt": "2023-07-06T23:45:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Sara Moniuszko",
+      "title": "Leqembi, first Alzheimer's drug to slow disease, gets full FDA approval - CBS News",
+      "description": "Leqembi is not a cure, but it is the first drug shown to slow the progression of Alzheimer's disease. It first received an accelerated approval from the FDA earlier this year.",
+      "url": "https://www.cbsnews.com/news/first-alzheimers-drug-slow-disease-leqembi-gets-full-fda-approval/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/06/6155b273-0a87-4d22-97d4-b6aa87e83e74/thumbnail/1200x630/5904df83378be2beb3922f98d71ffa3c/fda-reuters.jpg?v=532947bbe7449b367b963713a282edbc",
+      "publishedAt": "2023-07-06T23:35:00Z",
+      "content": "The U.S. Food and Drug Administration on Thursday granted traditional approval to the Alzheimer's drug lecanemab, known by the brand name Leqembi, after an accelerated approval was issued earlier thi… [+4550 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": "Michelle Lewis",
+      "title": "New Jersey's first offshore wind farm hits a milestone – and one county is fighting all of it - Electrek.co",
+      "description": "The first monopile for Ocean Wind 1, New Jersey's first offshore wind farm, is ready – and Cape May County isn't happy about any of this.",
+      "url": "https://electrek.co/2023/07/06/new-jersey-first-offshore-wind-farm-ocean-wind-1/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/07/Ocean-Wind-1-monopile-foundation.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-07-06T23:17:00Z",
+      "content": "The first monopile for Ocean Wind 1, New Jerseys first offshore wind farm, has been built at a New Jersey manufacturing facility and Cape May County isnt happy about any of it.\r\nJuly 6 update: An eve… [+4029 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WWLP.com"
+      },
+      "author": "Amy Phillips",
+      "title": "Several Eastfield Mall businesses are moving to new locations - WWLP.com",
+      "description": "The Western Mass Economic Development Council has provided a list of the businesses that will be moving to new addresses across the region.",
+      "url": "https://www.wwlp.com/news/local-news/several-eastfield-mall-businesses-are-moving-to-new-locations/",
+      "urlToImage": "https://www.wwlp.com/wp-content/uploads/sites/26/2023/07/Eastfield-Mall.jpg?w=1280",
+      "publishedAt": "2023-07-06T23:11:31Z",
+      "content": "SPRINGFIELD, Mass. (WWLP)– The Eastfield Mall will close on Saturday, July 15th and the location is expected to be developed into a mixed-use commercial and retail hub. \r\nThe businesses currently hou… [+1582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Dow Jones Futures: Jobs Report On Tap; Elon Musk Rips Threads As Twitter Rival Off To Record Start | Investor's Business Daily - Investor's Business Daily",
+      "description": null,
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-falls-with-jobs-report-due-meta-threads-has-record-launch-elon-musk-decries-cheating/",
+      "urlToImage": null,
+      "publishedAt": "2023-07-06T22:36:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Aislinn Murphy",
+      "title": "Company recalls 190,000 portable chargers following fire on plane - Fox Business",
+      "description": "About 190,000 portable chargers were recalled as of Thursday due to a risk of catching fire, according to the CPSC, which suggested immediately halting use.",
+      "url": "https://www.foxbusiness.com/lifestyle/company-recalls-190k-portable-chargers-following-fire-incident-plane",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/07/0/0/charger-black.jpg?ve=1&tl=1",
+      "publishedAt": "2023-07-06T22:29:10Z",
+      "content": "A company has a recall of nearly 200,000 portable chargers underway, citing a risk of them catching on fire, according to a Consumer Product Safety Commission (CPSC) alert. \r\nIn the alert Thursday, i… [+1741 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Sydney Borchers",
+      "title": "Costco now selling viral Blackstone Griddle, shoppers weigh in: 'Not worth the hassle' - Fox Business",
+      "description": "Costco Wholesale is now selling the Blackstone Griddle that went viral on TikTok and shoppers are sharing their excitement as well as disapproval on the warehouse's newest item.",
+      "url": "https://www.foxbusiness.com/lifestyle/costco-now-selling-viral-blackstone-griddle-shoppers-weigh-not-worth-the-hassle",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/07/0/0/Costco-blackstone-griddle-split.jpg?ve=1&tl=1",
+      "publishedAt": "2023-07-06T22:03:34Z",
+      "content": "Costco Wholesale appears to have once again created a debate among shoppers as the membership warehouse is selling a griddle that first went viral on TikTok in 2021.\r\nThe Blackstone 36 inch Griddle w… [+3229 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Takashi Mochizuki",
+      "title": "Sega Pulls Back From Blockchain Gaming as Crypto Winter Persists - Bloomberg",
+      "description": "Sega Corp., the gaming studio once regarded among the staunchest advocates of blockchain gaming, is pulling back from an arena devastated by the global crypto industry meltdown.",
+      "url": "https://www.bloomberg.com/news/articles/2023-07-06/sega-joins-blockchain-games-pullback-as-crypto-winter-persists",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNyDh1rKXCTQ/v0/1200x800.jpg",
+      "publishedAt": "2023-07-06T22:00:00Z",
+      "content": "Sega Corp., the gaming studio once regarded among the staunchest advocates of blockchain gaming, is pulling back from an arena \r\ndevastated by the global crypto industry meltdown.\r\nThe company behind… [+295 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Binance Crisis Manager Patrick Hillmann, US Executives Leave Crypto Exchange - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2023-07-06/binance-executive-patrick-hillmann-us-employees-leave-as-crisis-deepens",
+      "urlToImage": null,
+      "publishedAt": "2023-07-06T21:44:41Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "China to restrict exports of chipmaking materials to U.S.: Market impact - Yahoo Finance",
+      "description": "#yahoofinance #china #chips #globaleconomy #ai Ahead of U.S. Treasury Secretary Janet Yellen's visit to the nation, China has moved to restrict exports of ch...",
+      "url": "https://www.youtube.com/watch?v=4A4NlpC3wfg",
+      "urlToImage": "https://i.ytimg.com/vi/4A4NlpC3wfg/maxresdefault.jpg",
+      "publishedAt": "2023-07-06T21:30:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Slowing growth and higher rates could lead to stock pullback, says Ayako Yoshioka - CNBC Television",
+      "description": "Ayako Yoshioka, senior portfolio manager at Wealth Enhancement Group, and Peter Cecchini, director of research at Axonic, join 'Power Lunch' to discuss the l...",
+      "url": "https://www.youtube.com/watch?v=xMlJ2XB5A_4",
+      "urlToImage": "https://i.ytimg.com/vi/xMlJ2XB5A_4/maxresdefault.jpg",
+      "publishedAt": "2023-07-06T21:24:06Z",
+      "content": null
+    }
+  ]
+}
